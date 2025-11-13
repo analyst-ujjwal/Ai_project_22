@@ -1,4 +1,4 @@
-# RAG Groq Chatbot — Professional
+# RAG Groq Chatbot Project-22
 
 A polished Retrieval-Augmented Generation (RAG) chatbot using Groq Llama models.
 
