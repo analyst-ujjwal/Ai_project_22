@@ -1,0 +1,73 @@
+# -------------------------------
+# Python
+# -------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.log
+*.tmp
+*.sqlite
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# -------------------------------
+# Project secrets
+# -------------------------------
+.env
+.env.*
+
+# -------------------------------
+# ChromaDB vector storage
+# -------------------------------
+vector_data/
+chroma/
+chroma_db/
+index/
+*.bin
+*.hnsw
+
+# -------------------------------
+# Cache & model artifacts
+# -------------------------------
+.cache/
+tmp/
+temp/
+*.cache
+*.npy
+*.npz
+
+# HuggingFace / Transformers cache
+~/.cache/huggingface/
+huggingface/
+transformers_cache/
+sentence_transformers/
+datasets/
+
+# -------------------------------
+# OS-specific files
+# -------------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------------
+# Streamlit
+# -------------------------------
+.streamlit/secrets.toml
+.streamlit/*.log
+
+# -------------------------------
+# Editor specific
+# -------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
