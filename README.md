@@ -15,7 +15,6 @@ Features
 
 ## Quickstart
 
-1. Clone or copy repository and change into `rag-groq-chatbot/src`:
+1. Clone or copy repository and change into `Ai_project_22/src`:
 
-```bash
-cd rag-groq-chatbot
+
